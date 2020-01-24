@@ -7,7 +7,7 @@ matplotlib \
 Seaborn \
 Scikit-Learn \
 Keras \ 
-XGboost \
+XGboost 
 
 ### HH_preprocessing: 
 This notebook preprocess the half hourly data to remove missing information. The data is save as parquet file. 
