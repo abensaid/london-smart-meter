@@ -10,7 +10,7 @@ Keras \
 XGboost
 
 ### HH_preprocessing: 
-This notebook preprocess the half hourly data to remove missing information. The data is save as parquet file. 
+This notebook preprocesses the half hourly data to remove missing information. The data is saved as parquet file. 
 ### Socioeconomic: 
 This notebook analyzes the socioecnomic aspect of the acorn groups.
 ### EDA_Forecasting: 
