@@ -4,8 +4,10 @@ Pandas \
 PySpark \
 Plotly \
 matplotlib \
+Seaborn \
 Scikit-Learn \
-Keras
+Keras \ 
+XGboost \
 
 ### HH_preprocessing: 
 This notebook preprocess the half hourly data to remove missing information. The data is save as parquet file. 
